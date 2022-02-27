@@ -40,6 +40,7 @@ Todos
 
 - [x] --month, --next, --previous
 - [x] read this chapter: https://doc.rust-lang.org/book/ch09-00-error-handling.html
+- [ ] use smallvec where possible
 
 Out of Scope
 ------------

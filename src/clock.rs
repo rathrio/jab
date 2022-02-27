@@ -94,6 +94,7 @@ pub fn punch(args: &Args) {
 
     if args.brf {
         open_dir(&card.hours_dir_path).expect("Could not open hours directory");
+        return;
     }
 
     if args.yesterday {
